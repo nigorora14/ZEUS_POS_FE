@@ -1,0 +1,79 @@
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csprojAssemblyReference.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\SPV_Capa_Negocio.csproj.CopyComplete
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\System.Net.Http.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\es\System.Net.Http.resources.dll

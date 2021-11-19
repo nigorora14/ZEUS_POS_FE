@@ -1,0 +1,812 @@
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form1.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_Producto_Compra.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login_2.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Welcome.resources
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+D:\Programas\archivcos C#\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login_2.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Welcome.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form1.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_Producto_Compra.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form2.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+C:\Users\Nilton\Desktop\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login_2.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Welcome.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form1.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Cant.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_ProductoCompra2.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion2.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login.resources
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+C:\PROYECTO SPV\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_PrintCoti.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion2.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login_2.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_PrintCoti.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Welcome.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_ProductoCompra2.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form1.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVentaTicket.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetCompra.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetVenta.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Documento.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+I:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetCompra.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetVenta.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Documento.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion2.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_PrintCoti.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_ProductoCompra2.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVentaTicket.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Form1.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_login_2.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Welcome.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Filtro.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Principal.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Correlativo.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.1n.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.IO.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Meta.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Relation.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_EditTipoCambio.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Kardex.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explo_MovimientoCaja.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explo_Cotizacion.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Credito.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetCredito.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_PagoDeuda.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Abono.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Exptar_Producto.resources
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\QRCoder.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Kardex.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.1n.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.IO.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Meta.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Relation.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\QRCoder.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explo_MovimientoCaja.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetCompra.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explo_Cotizacion.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Kardex.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Abono.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Exptar_Producto.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Kardex.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_PagoDeuda.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_EditTipoCambio.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Correlativo.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetCredito.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetVenta.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Credito.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Documento.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion2.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_login_2.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_PrintCoti.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Welcome.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_ProductoCompra2.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Form1.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Filtro.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Principal.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVentaTicket.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Guna.UI2.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.1n.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.IO.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Meta.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Relation.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Guna.UI.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\QRCoder.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ThoughtWorks.QRCode.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explo_MovimientoCaja.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetCompra.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explo_Cotizacion.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Kardex.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Abono.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_EditEmpresa.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Exptar_Producto.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Kardex.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_PagoDeuda.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_EditTipoCambio.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Correlativo.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetCredito.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetVenta.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Credito.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Documento.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion2.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_login_2.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_PrintCoti.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_login.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Welcome.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_ProductoCompra2.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Form1.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Filtro.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Principal.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVentaTicket.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Ventana_Ventas.resources
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+I:\FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.1n.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Form.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.IO.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Meta.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Object.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Relation.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.Skin.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Fozzy.System.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\MaterialSkin.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\QRCoder.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ThoughtWorks.QRCode.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\WinFormAnimation.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CircularProgressBar.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explo_MovimientoCaja.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AddCliente.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explo_Cliente.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoClientes.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetCompra.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explo_Cotizacion.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Kardex.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Abono.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Exptar_Producto.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Kardex.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_PagoDeuda.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_EditTipoCambio.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Correlativo.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetCredito.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetVenta.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Credito.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explo_Documento.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explo_Compras.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion2.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_login_2.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_PrintCoti.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Welcome.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Listar_ProductoCompra2.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cant.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Form1.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Filtro.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Principal.Frm_Principal.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_EditProducto.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Producto.Frm_AddProducto.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explo_Producto.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_AddProveedor.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_EditProveedor.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_Explo_Proveedor.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedor.Frm_ListadoProveedor.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distrito.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SINO.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marca.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVentaTicket.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.GenerateResource.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CoreCompileInputs.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\businessEntities.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CPEEnvio.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrearXML.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Signature.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\SharpZipLib.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\businessEntities.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CPEEnvio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CPEEnvio.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CPEEnvio.dll.config
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrearXML.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrearXML.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Signature.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Respuesta.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_add_motivo_Nc.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_NotaCredito.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_TerminarNotaCred.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Nro_NC.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_Explorador_notaCreditos.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_Send_NC_FC.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.frm_Send_FE.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Nro_FE.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_ResumenBoleta.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.NotaCredito.Frm_DarBaja_FE.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Anular_FE.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Terminar_Venta_SMS.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Newtonsoft.Json.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Imagenes\nube.gif
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Imagenes\Point.gif
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.TipoCambio.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.FormAPIS.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Newtonsoft.Json.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Guna.UI2.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.MiEmpresa.Frm_EditEmpresa.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta_A5.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Formato.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta_A4.resources

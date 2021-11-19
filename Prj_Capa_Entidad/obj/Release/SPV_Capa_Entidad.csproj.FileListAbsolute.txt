@@ -1,0 +1,12 @@
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\bin\Release\Prj_Capa_Entidad.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\bin\Release\Prj_Capa_Entidad.pdb
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\SPV_Capa_Entidad.csprojAssemblyReference.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\SPV_Capa_Entidad.csproj.CoreCompileInputs.cache
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.dll
+I:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\bin\Release\Prj_Capa_Entidad.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\bin\Release\Prj_Capa_Entidad.pdb
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\SPV_Capa_Entidad.csprojAssemblyReference.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\SPV_Capa_Entidad.csproj.CoreCompileInputs.cache
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.dll
+D:\Proyecto1703\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.pdb

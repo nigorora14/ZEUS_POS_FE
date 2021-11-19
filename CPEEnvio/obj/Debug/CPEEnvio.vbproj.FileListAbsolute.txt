@@ -1,0 +1,283 @@
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\developer2\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.pdb
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.dll
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.pdb
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.xml
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.dll
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.xml
+H:\PC JOSE ZAMBRANO\jose\sistemas\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\FacElectronicaVBNetUBL21\FacElectronicaVBNetUBL21\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Proyectos de Visual Studio\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2017\Microsell Facturacion Electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.Cache
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojResolveAssemblyReference.cache
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\Erwin lap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archivos a salvo\Archviso de Visual estudio\Proyectos Visual 2017\Microsell factura electronica\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\Erwin\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\ErwinLap\Desktop\Pos_Microsell\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\ErwinLap\Desktop\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+G:\Archviso de Visual estudio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos Vb\MicroSell 2019\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Acosas de Visual\Visual Basic\Microsell 2020\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.dll
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.pdb
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\bin\Debug\CPEEnvio.xml
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.dll
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.xml
+F:\Sistemas\Sistema Abarrotes FE\Fuente FE\Pos_Microsell\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\Erwin\Documents\Audacity\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\MIcrosell Lite con FE\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sistema Similares\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.pdb
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.dll
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.pdb
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\bin\Debug\CPEEnvio.xml
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.dll
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.xml
+E:\Sistema Similar\Sln_MicroLiteFe\CPEEnvio\obj\Debug\CPEEnvio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\bin\Debug\CPEEnvio.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\bin\Debug\CPEEnvio.pdb
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\bin\Debug\CPEEnvio.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.dll
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.xml
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CPEEnvio\obj\Debug\CPEEnvio.pdb
