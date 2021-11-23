@@ -810,3 +810,4 @@ D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta_A5.resources
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Formato.resources
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta_A4.resources
+D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.GuiaRemision.Frm_GuiaRemision.resources

@@ -54,6 +54,7 @@
     <Compile Include="RN_Credito.cs" />
     <Compile Include="RN_Distrito.cs" />
     <Compile Include="RN_Documento.cs" />
+    <Compile Include="RN_GuiaRemision.cs" />
     <Compile Include="RN_IngresoCompra.cs" />
     <Compile Include="RN_Kardex.cs" />
     <Compile Include="RN_MiEmpresa.cs" />

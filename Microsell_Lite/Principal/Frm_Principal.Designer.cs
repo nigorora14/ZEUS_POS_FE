@@ -32,6 +32,9 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Principal));
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.Pnl_Menu = new System.Windows.Forms.Panel();
+            this.btn_minimi = new System.Windows.Forms.Button();
+            this.bt_Max = new System.Windows.Forms.Button();
+            this.btn_cerrar = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.MenuStrip1 = new System.Windows.Forms.MenuStrip();
             this.bt_MenuPrinci = new System.Windows.Forms.ToolStripMenuItem();
@@ -123,6 +126,7 @@
             this.enviarBoletaElectronicaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator39 = new System.Windows.Forms.ToolStripSeparator();
             this.enviarBajaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.enviarGuiaDeRemesionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.Bt_Config = new System.Windows.Forms.ToolStripMenuItem();
             this.Bt_EditEmpresa = new System.Windows.Forms.ToolStripMenuItem();
             this.ToolStripSeparator7 = new System.Windows.Forms.ToolStripSeparator();
@@ -137,6 +141,7 @@
             this.bt_salidadinero = new System.Windows.Forms.ToolStripMenuItem();
             this.LiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bt_EntradaDinero = new System.Windows.Forms.ToolStripMenuItem();
+            this.btn_normal = new System.Windows.Forms.Button();
             this.PanelLateral = new System.Windows.Forms.Panel();
             this.bt_DocEmitidos = new FontAwesome.Sharp.IconButton();
             this.bt_cliente = new FontAwesome.Sharp.IconButton();
@@ -158,10 +163,7 @@
             this.lbl_Fecha = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.btn_cerrar = new System.Windows.Forms.Button();
-            this.btn_minimi = new System.Windows.Forms.Button();
-            this.bt_Max = new System.Windows.Forms.Button();
-            this.btn_normal = new System.Windows.Forms.Button();
+            this.toolStripSeparator43 = new System.Windows.Forms.ToolStripSeparator();
             this.Pnl_Menu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.MenuStrip1.SuspendLayout();
@@ -193,6 +195,60 @@
             this.Pnl_Menu.Size = new System.Drawing.Size(1330, 55);
             this.Pnl_Menu.TabIndex = 2;
             this.Pnl_Menu.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Pnl_Menu_MouseMove);
+            // 
+            // btn_minimi
+            // 
+            this.btn_minimi.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_minimi.FlatAppearance.BorderSize = 0;
+            this.btn_minimi.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btn_minimi.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btn_minimi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_minimi.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_minimi.ForeColor = System.Drawing.Color.White;
+            this.btn_minimi.Image = ((System.Drawing.Image)(resources.GetObject("btn_minimi.Image")));
+            this.btn_minimi.Location = new System.Drawing.Point(1198, 3);
+            this.btn_minimi.Name = "btn_minimi";
+            this.btn_minimi.Size = new System.Drawing.Size(32, 32);
+            this.btn_minimi.TabIndex = 17;
+            this.btn_minimi.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btn_minimi.UseVisualStyleBackColor = true;
+            this.btn_minimi.Click += new System.EventHandler(this.btn_minimi_Click);
+            // 
+            // bt_Max
+            // 
+            this.bt_Max.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.bt_Max.FlatAppearance.BorderSize = 0;
+            this.bt_Max.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.bt_Max.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.bt_Max.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.bt_Max.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bt_Max.ForeColor = System.Drawing.Color.White;
+            this.bt_Max.Image = ((System.Drawing.Image)(resources.GetObject("bt_Max.Image")));
+            this.bt_Max.Location = new System.Drawing.Point(1239, 3);
+            this.bt_Max.Name = "bt_Max";
+            this.bt_Max.Size = new System.Drawing.Size(32, 32);
+            this.bt_Max.TabIndex = 18;
+            this.bt_Max.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.bt_Max.UseVisualStyleBackColor = true;
+            this.bt_Max.Click += new System.EventHandler(this.bt_Max_Click);
+            // 
+            // btn_cerrar
+            // 
+            this.btn_cerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_cerrar.FlatAppearance.BorderSize = 0;
+            this.btn_cerrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(17)))), ((int)(((byte)(35)))));
+            this.btn_cerrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(17)))), ((int)(((byte)(35)))));
+            this.btn_cerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cerrar.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_cerrar.ForeColor = System.Drawing.Color.White;
+            this.btn_cerrar.Image = ((System.Drawing.Image)(resources.GetObject("btn_cerrar.Image")));
+            this.btn_cerrar.Location = new System.Drawing.Point(1282, 3);
+            this.btn_cerrar.Name = "btn_cerrar";
+            this.btn_cerrar.Size = new System.Drawing.Size(45, 32);
+            this.btn_cerrar.TabIndex = 16;
+            this.btn_cerrar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btn_cerrar.UseVisualStyleBackColor = true;
+            this.btn_cerrar.Click += new System.EventHandler(this.btn_cerrar_Click);
             // 
             // pictureBox1
             // 
@@ -923,7 +979,9 @@
             this.toolStripSeparator32,
             this.enviarBoletaElectronicaToolStripMenuItem,
             this.toolStripSeparator39,
-            this.enviarBajaToolStripMenuItem});
+            this.enviarBajaToolStripMenuItem,
+            this.toolStripSeparator43,
+            this.enviarGuiaDeRemesionToolStripMenuItem});
             this.sUNATToolStripMenuItem.Font = new System.Drawing.Font("Verdana", 11.25F);
             this.sUNATToolStripMenuItem.ForeColor = System.Drawing.Color.DimGray;
             this.sUNATToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("sUNATToolStripMenuItem.Image")));
@@ -982,6 +1040,15 @@
             this.enviarBajaToolStripMenuItem.Text = "Enviar Baja";
             this.enviarBajaToolStripMenuItem.Click += new System.EventHandler(this.enviarBajaToolStripMenuItem_Click);
             // 
+            // enviarGuiaDeRemesionToolStripMenuItem
+            // 
+            this.enviarGuiaDeRemesionToolStripMenuItem.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold);
+            this.enviarGuiaDeRemesionToolStripMenuItem.ForeColor = System.Drawing.Color.DimGray;
+            this.enviarGuiaDeRemesionToolStripMenuItem.Name = "enviarGuiaDeRemesionToolStripMenuItem";
+            this.enviarGuiaDeRemesionToolStripMenuItem.Size = new System.Drawing.Size(324, 22);
+            this.enviarGuiaDeRemesionToolStripMenuItem.Text = "Enviar Guia de Remesion";
+            this.enviarGuiaDeRemesionToolStripMenuItem.Click += new System.EventHandler(this.enviarGuiaDeRemesionToolStripMenuItem_Click);
+            // 
             // Bt_Config
             // 
             this.Bt_Config.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -1012,21 +1079,21 @@
             // ToolStripSeparator7
             // 
             this.ToolStripSeparator7.Name = "ToolStripSeparator7";
-            this.ToolStripSeparator7.Size = new System.Drawing.Size(232, 6);
+            this.ToolStripSeparator7.Size = new System.Drawing.Size(210, 6);
             // 
             // Bt_EditarCorrelativos
             // 
             this.Bt_EditarCorrelativos.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold);
             this.Bt_EditarCorrelativos.ForeColor = System.Drawing.Color.DimGray;
             this.Bt_EditarCorrelativos.Name = "Bt_EditarCorrelativos";
-            this.Bt_EditarCorrelativos.Size = new System.Drawing.Size(235, 22);
+            this.Bt_EditarCorrelativos.Size = new System.Drawing.Size(213, 22);
             this.Bt_EditarCorrelativos.Text = "Editar Correlativos";
             this.Bt_EditarCorrelativos.Click += new System.EventHandler(this.Bt_EditarCorrelativos_Click);
             // 
             // ToolStripSeparator8
             // 
             this.ToolStripSeparator8.Name = "ToolStripSeparator8";
-            this.ToolStripSeparator8.Size = new System.Drawing.Size(232, 6);
+            this.ToolStripSeparator8.Size = new System.Drawing.Size(210, 6);
             // 
             // Bt_RestringirAcceso
             // 
@@ -1034,24 +1101,24 @@
             this.Bt_RestringirAcceso.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold);
             this.Bt_RestringirAcceso.ForeColor = System.Drawing.Color.DimGray;
             this.Bt_RestringirAcceso.Name = "Bt_RestringirAcceso";
-            this.Bt_RestringirAcceso.Size = new System.Drawing.Size(235, 22);
+            this.Bt_RestringirAcceso.Size = new System.Drawing.Size(213, 22);
             this.Bt_RestringirAcceso.Text = "Restringir Acceso";
             this.Bt_RestringirAcceso.Visible = false;
             // 
             // ToolStripSeparator9
             // 
             this.ToolStripSeparator9.Name = "ToolStripSeparator9";
-            this.ToolStripSeparator9.Size = new System.Drawing.Size(232, 6);
+            this.ToolStripSeparator9.Size = new System.Drawing.Size(210, 6);
             // 
             // ToolStripSeparator12
             // 
             this.ToolStripSeparator12.Name = "ToolStripSeparator12";
-            this.ToolStripSeparator12.Size = new System.Drawing.Size(232, 6);
+            this.ToolStripSeparator12.Size = new System.Drawing.Size(210, 6);
             // 
             // ToolStripSeparator41
             // 
             this.ToolStripSeparator41.Name = "ToolStripSeparator41";
-            this.ToolStripSeparator41.Size = new System.Drawing.Size(232, 6);
+            this.ToolStripSeparator41.Size = new System.Drawing.Size(210, 6);
             // 
             // Bt_Configu
             // 
@@ -1096,6 +1163,25 @@
             this.bt_EntradaDinero.ToolTipText = "*********** Registrar Otros Ingresos *************\r\nRegistra desde Aqui otros Ing" +
     "resos De Dinero\r\nque puedan Afectar a tu caja.";
             this.bt_EntradaDinero.Click += new System.EventHandler(this.bt_EntradaDinero_Click);
+            // 
+            // btn_normal
+            // 
+            this.btn_normal.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_normal.FlatAppearance.BorderSize = 0;
+            this.btn_normal.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btn_normal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.btn_normal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_normal.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_normal.ForeColor = System.Drawing.Color.White;
+            this.btn_normal.Image = ((System.Drawing.Image)(resources.GetObject("btn_normal.Image")));
+            this.btn_normal.Location = new System.Drawing.Point(1239, 3);
+            this.btn_normal.Name = "btn_normal";
+            this.btn_normal.Size = new System.Drawing.Size(32, 32);
+            this.btn_normal.TabIndex = 19;
+            this.btn_normal.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btn_normal.UseVisualStyleBackColor = true;
+            this.btn_normal.Visible = false;
+            this.btn_normal.Click += new System.EventHandler(this.btn_normal_Click);
             // 
             // PanelLateral
             // 
@@ -1399,78 +1485,10 @@
             this.label2.TabIndex = 13;
             this.label2.Text = "Comunicarse al Mobil: 51 946352516";
             // 
-            // btn_cerrar
+            // toolStripSeparator43
             // 
-            this.btn_cerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btn_cerrar.FlatAppearance.BorderSize = 0;
-            this.btn_cerrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(17)))), ((int)(((byte)(35)))));
-            this.btn_cerrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(17)))), ((int)(((byte)(35)))));
-            this.btn_cerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_cerrar.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_cerrar.ForeColor = System.Drawing.Color.White;
-            this.btn_cerrar.Image = ((System.Drawing.Image)(resources.GetObject("btn_cerrar.Image")));
-            this.btn_cerrar.Location = new System.Drawing.Point(1282, 3);
-            this.btn_cerrar.Name = "btn_cerrar";
-            this.btn_cerrar.Size = new System.Drawing.Size(45, 32);
-            this.btn_cerrar.TabIndex = 16;
-            this.btn_cerrar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btn_cerrar.UseVisualStyleBackColor = true;
-            this.btn_cerrar.Click += new System.EventHandler(this.btn_cerrar_Click);
-            // 
-            // btn_minimi
-            // 
-            this.btn_minimi.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btn_minimi.FlatAppearance.BorderSize = 0;
-            this.btn_minimi.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btn_minimi.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btn_minimi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_minimi.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_minimi.ForeColor = System.Drawing.Color.White;
-            this.btn_minimi.Image = ((System.Drawing.Image)(resources.GetObject("btn_minimi.Image")));
-            this.btn_minimi.Location = new System.Drawing.Point(1198, 3);
-            this.btn_minimi.Name = "btn_minimi";
-            this.btn_minimi.Size = new System.Drawing.Size(32, 32);
-            this.btn_minimi.TabIndex = 17;
-            this.btn_minimi.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btn_minimi.UseVisualStyleBackColor = true;
-            this.btn_minimi.Click += new System.EventHandler(this.btn_minimi_Click);
-            // 
-            // bt_Max
-            // 
-            this.bt_Max.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.bt_Max.FlatAppearance.BorderSize = 0;
-            this.bt_Max.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.bt_Max.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.bt_Max.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.bt_Max.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bt_Max.ForeColor = System.Drawing.Color.White;
-            this.bt_Max.Image = ((System.Drawing.Image)(resources.GetObject("bt_Max.Image")));
-            this.bt_Max.Location = new System.Drawing.Point(1239, 3);
-            this.bt_Max.Name = "bt_Max";
-            this.bt_Max.Size = new System.Drawing.Size(32, 32);
-            this.bt_Max.TabIndex = 18;
-            this.bt_Max.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.bt_Max.UseVisualStyleBackColor = true;
-            this.bt_Max.Click += new System.EventHandler(this.bt_Max_Click);
-            // 
-            // btn_normal
-            // 
-            this.btn_normal.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btn_normal.FlatAppearance.BorderSize = 0;
-            this.btn_normal.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btn_normal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.btn_normal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_normal.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_normal.ForeColor = System.Drawing.Color.White;
-            this.btn_normal.Image = ((System.Drawing.Image)(resources.GetObject("btn_normal.Image")));
-            this.btn_normal.Location = new System.Drawing.Point(1239, 3);
-            this.btn_normal.Name = "btn_normal";
-            this.btn_normal.Size = new System.Drawing.Size(32, 32);
-            this.btn_normal.TabIndex = 19;
-            this.btn_normal.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btn_normal.UseVisualStyleBackColor = true;
-            this.btn_normal.Visible = false;
-            this.btn_normal.Click += new System.EventHandler(this.btn_normal_Click);
+            this.toolStripSeparator43.Name = "toolStripSeparator43";
+            this.toolStripSeparator43.Size = new System.Drawing.Size(321, 6);
             // 
             // Frm_Principal
             // 
@@ -1645,6 +1663,8 @@
         private System.Windows.Forms.Button btn_normal;
         private System.Windows.Forms.Button btn_minimi;
         private System.Windows.Forms.Button bt_Max;
+        private System.Windows.Forms.ToolStripMenuItem enviarGuiaDeRemesionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator43;
     }
 }
 

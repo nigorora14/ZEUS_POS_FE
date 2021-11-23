@@ -180,7 +180,7 @@
             this.pnl_sinProd.Location = new System.Drawing.Point(0, 44);
             this.pnl_sinProd.Margin = new System.Windows.Forms.Padding(4);
             this.pnl_sinProd.Name = "pnl_sinProd";
-            this.pnl_sinProd.Size = new System.Drawing.Size(1070, 534);
+            this.pnl_sinProd.Size = new System.Drawing.Size(1071, 534);
             this.pnl_sinProd.TabIndex = 480;
             // 
             // btn_Nuevo_buscarProd
@@ -318,7 +318,7 @@
             // 
             this.bunifuSeparator10.BackColor = System.Drawing.Color.Transparent;
             this.bunifuSeparator10.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
-            this.bunifuSeparator10.LineThickness = 4144;
+            this.bunifuSeparator10.LineThickness = 6216;
             this.bunifuSeparator10.Location = new System.Drawing.Point(78, 3);
             this.bunifuSeparator10.Margin = new System.Windows.Forms.Padding(48, 33, 48, 33);
             this.bunifuSeparator10.Name = "bunifuSeparator10";
@@ -331,7 +331,7 @@
             // 
             this.bunifuSeparator9.BackColor = System.Drawing.Color.Transparent;
             this.bunifuSeparator9.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
-            this.bunifuSeparator9.LineThickness = 2763;
+            this.bunifuSeparator9.LineThickness = 4144;
             this.bunifuSeparator9.Location = new System.Drawing.Point(446, 2);
             this.bunifuSeparator9.Margin = new System.Windows.Forms.Padding(32, 24, 32, 24);
             this.bunifuSeparator9.Name = "bunifuSeparator9";
@@ -344,7 +344,7 @@
             // 
             this.bunifuSeparator8.BackColor = System.Drawing.Color.Transparent;
             this.bunifuSeparator8.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
-            this.bunifuSeparator8.LineThickness = 2763;
+            this.bunifuSeparator8.LineThickness = 4144;
             this.bunifuSeparator8.Location = new System.Drawing.Point(524, 3);
             this.bunifuSeparator8.Margin = new System.Windows.Forms.Padding(32, 24, 32, 24);
             this.bunifuSeparator8.Name = "bunifuSeparator8";
@@ -357,7 +357,7 @@
             // 
             this.bunifuSeparator6.BackColor = System.Drawing.Color.Transparent;
             this.bunifuSeparator6.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
-            this.bunifuSeparator6.LineThickness = 1842;
+            this.bunifuSeparator6.LineThickness = 2763;
             this.bunifuSeparator6.Location = new System.Drawing.Point(622, 1);
             this.bunifuSeparator6.Margin = new System.Windows.Forms.Padding(21, 17, 21, 17);
             this.bunifuSeparator6.Name = "bunifuSeparator6";
@@ -442,7 +442,7 @@
             // 
             this.bunifuSeparator5.BackColor = System.Drawing.Color.Transparent;
             this.bunifuSeparator5.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
-            this.bunifuSeparator5.LineThickness = 2763;
+            this.bunifuSeparator5.LineThickness = 4144;
             this.bunifuSeparator5.Location = new System.Drawing.Point(784, 0);
             this.bunifuSeparator5.Margin = new System.Windows.Forms.Padding(21, 17, 21, 17);
             this.bunifuSeparator5.Name = "bunifuSeparator5";
@@ -822,6 +822,7 @@
             this.txt_IdComp.Name = "txt_IdComp";
             this.txt_IdComp.Size = new System.Drawing.Size(140, 24);
             this.txt_IdComp.TabIndex = 492;
+            this.txt_IdComp.Visible = false;
             // 
             // label12
             // 

@@ -198,6 +198,29 @@ namespace SPV_Capa_Datos
             }
 
         }
+        public DataTable BD_Buscar_UniMedia_Todos()
+        {
+            try
+            {
+                SqlDataAdapter da = new SqlDataAdapter("Sp_Listar_UniMedida_todos", cn);
+
+                da.SelectCommand.CommandType = CommandType.StoredProcedure;
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                da = null;
+                return dt;
+            }
+            catch (Exception ex)
+            {
+                if (cn.State == ConnectionState.Open)
+                {
+                    cn.Close();
+                }
+                MessageBox.Show("Error al Mostrar: " + ex.Message, "Sp_Listar_UniMedida_todos - BD_Producto.cs", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                return null;
+            }
+
+        }
         //BUSCAR PROVEEDOR
         public DataTable BD_Buscar_Producto(string Valor)
         {

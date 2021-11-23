@@ -570,11 +570,11 @@ namespace Microsell_Lite.Cotizacion
                     header = 1;
                     detalle = 1;
                     Principal.Frm_Filtro fil = new Principal.Frm_Filtro();
-                    Frm_Msm_Bueno msm = new Frm_Msm_Bueno();
-                    fil.Show();
-                    msm.Lbl_msm1.Text = "Se ingreso el pedido " + txt_numPedido.Text + " Satisfactoriamente.";
-                    msm.ShowDialog();
-                    fil.Hide();
+                    //Frm_Msm_Bueno msm = new Frm_Msm_Bueno();
+                    //fil.Show();
+                    //msm.Lbl_msm1.Text = "Se ingreso el pedido " + txt_numPedido.Text + " Satisfactoriamente.";
+                    //msm.ShowDialog();
+                    //fil.Hide();
                   
                 }
                 

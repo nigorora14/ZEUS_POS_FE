@@ -634,7 +634,7 @@ namespace Microsell_Lite.Ventas
                 if (header == 1)
                 {
                     n_pedi.RN_Eliminar_Pedido_Det(txt_nroPed.Text);
-                    //giuardar el detalle del pedido:
+                    //guardar el detalle del pedido:
                     e_det.Id_Ped = txt_nroPed.Text;
 
                     for (int i = 0; i < lsv_Det.Items.Count; i++)
@@ -697,7 +697,7 @@ namespace Microsell_Lite.Ventas
                 if (header == 1)
                 {
                     RN_TipoDoc.RN_Actualizar_SiguienteNro_correlativo(10);
-                    //giuardar el detalle del pedido:
+                    //guardar el detalle del pedido:
 
                     e_det.Id_Ped = txt_nroPed.Text;
 
@@ -729,7 +729,7 @@ namespace Microsell_Lite.Ventas
             catch (Exception ex)
             {
                 string msm = ex.Message;
-                MessageBox.Show("Error al Guardar: " + ex.Message, "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Error al Guardar: " + msm, "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
 
 
@@ -809,15 +809,15 @@ namespace Microsell_Lite.Ventas
 
             if (Validar_compra())
             {
-                if (cbb_tipoPago.SelectedIndex==0)
-                {
-                    fil.Show();
-                    //me llevo el label
-                    //muestro la ventana
-                    //billete de pago
-                    fil.Hide();
+                //if (cbb_tipoPago.SelectedIndex==0)
+                //{
+                //    fil.Show();
+                //    //me llevo el label
+                //    //muestro la ventana
+                //    //billete de pago
+                //    fil.Hide();
 
-                }
+                //}
                 if (cbb_tipoPago.SelectedIndex == 2)
                 {
                     fil.Show();
@@ -1844,7 +1844,10 @@ namespace Microsell_Lite.Ventas
         {
             RN_Cotizacion n_coti = new RN_Cotizacion();
             DataTable dt = new DataTable();
+            DataTable dt2 = new DataTable();
+            RN_Producto n_prod = new RN_Producto();
             Utilitarios.Frm_Advertencia adv = new Utilitarios.Frm_Advertencia();
+
             try
             {
                 dt = n_coti.RN_Buscar_Cotizacion_Para_Editar(nroCot.Trim());
@@ -1855,7 +1858,7 @@ namespace Microsell_Lite.Ventas
                     if (txt_estCoti.Text == "Atendido")
                     {
                         fil.Show();
-                        adv.lbl_msm.Text = "Esta Cotizacion ya fue atendida, por favor, cargue una que este pendiente.";
+                        adv.lbl_msm.Text = "Esta Cotizacion ya fue atendida, por favor, cargue que se encuentre pendiente.";
                         adv.ShowDialog();
                         fil.Hide();
                         txt_estCoti.Text = "";
@@ -1871,12 +1874,20 @@ namespace Microsell_Lite.Ventas
                     txt_cliente.Text = dato["Razon_Social_Nombres"].ToString();
                     lbl_direccion.Text = dato["Direccion"].ToString();
                     lbl_Dni.Text = dato["DNI"].ToString().Trim();
+                    Leer_Datos_DelCliente(lbl_Dni.Text);
 
                     foreach (DataRow xitem in dt.Rows)
                     {
                         ListViewItem xlist;
                         string idprod = xitem["Id_Pro"].ToString();
+                        string _uni_medida;
+                        string _uni_medida_desc;
                         double xcant = Convert.ToDouble(xitem["Stock_Actual"].ToString());
+
+                        _uni_medida = xitem["Und_Medida"].ToString();
+                        dt2 = n_prod.RN_Buscar_UniMedia(_uni_medida);
+                        DataRow dr = dt2.Rows[0];
+                        _uni_medida_desc = dr["descripcion"].ToString();
 
                         Buscar_Producto_Cotizacion(idprod.Trim());
 
@@ -1887,12 +1898,17 @@ namespace Microsell_Lite.Ventas
                                 xlist = lsv_Det.Items.Add(xitem["Id_Pro"].ToString());
                                 xlist.SubItems.Add(xitem["Descripcion_Larga"].ToString());
                                 xlist.SubItems.Add(xitem["Cantidad"].ToString());
-                                xlist.SubItems.Add(xitem["Precio"].ToString());
-                                xlist.SubItems.Add(xitem["Importe"].ToString());
+                                xlist.SubItems.Add(xitem["Precio_ConIgv"].ToString());
+                                xlist.SubItems.Add(xitem["Importe_ConIgv"].ToString());
                                 xlist.SubItems.Add(xitem["Tipo_Prod"].ToString());
                                 xlist.SubItems.Add(xitem["Und_Medida"].ToString());
                                 xlist.SubItems.Add(xitem["Utilidad_Unit"].ToString());
                                 xlist.SubItems.Add(xitem["Utilidad_Unit"].ToString());
+                                xlist.SubItems.Add("Gravado");
+                                xlist.SubItems.Add("0.00");
+                                xlist.SubItems.Add("0.00");
+                                xlist.SubItems.Add("0.00");
+                                xlist.SubItems.Add(_uni_medida_desc.ToString());
                             }
                         }
                         else
@@ -1900,15 +1916,21 @@ namespace Microsell_Lite.Ventas
                             xlist = lsv_Det.Items.Add(xitem["Id_Pro"].ToString());
                             xlist.SubItems.Add(xitem["Descripcion_Larga"].ToString());
                             xlist.SubItems.Add(xitem["Cantidad"].ToString());
-                            xlist.SubItems.Add(xitem["Precio"].ToString());
-                            xlist.SubItems.Add(xitem["Importe"].ToString());
+                            xlist.SubItems.Add(xitem["Precio_ConIgv"].ToString());
+                            xlist.SubItems.Add(xitem["Importe_ConIgv"].ToString());
                             xlist.SubItems.Add(xitem["Tipo_Prod"].ToString());
                             xlist.SubItems.Add(xitem["Und_Medida"].ToString());
                             xlist.SubItems.Add(xitem["Utilidad_Unit"].ToString());
                             xlist.SubItems.Add(xitem["Utilidad_Unit"].ToString());
-                        }
-                    }
 
+                            xlist.SubItems.Add("Gravado");
+                            xlist.SubItems.Add("0.00");
+                            xlist.SubItems.Add("0.00");
+                            xlist.SubItems.Add("0.00");
+                            xlist.SubItems.Add(_uni_medida_desc.ToString());
+                         }
+                    }
+                    
                     Calcular();
                     pnl_sinProd.Visible = false;
                     txt_buscar.Enabled = false;
@@ -1940,7 +1962,7 @@ namespace Microsell_Lite.Ventas
                 if (dt.Rows.Count > 0)
                 {
                     lbl_StockX.Text = Convert.ToString(dt.Rows[0]["Stock_Actual"]);
-                    lbl_prodX.Text = Convert.ToString(dt.Rows[0]["TipoProdcto"]);
+                    lbl_prodX.Text = Convert.ToString(dt.Rows[0]["TipoProdcto"]);//Und_Medida
                 }
             }
             catch (Exception ex)
@@ -2099,14 +2121,14 @@ namespace Microsell_Lite.Ventas
                 Leer_Datos_DelCliente(lbl_xDNI.Text);
             }
         }
-        private void Leer_Datos_DelCliente(string idprod)
+        private void Leer_Datos_DelCliente(string dni)
         {
             RN_cliente n_cliente = new RN_cliente();
             DataTable data = new DataTable();
             double xlimit_credit;
             try
             {
-                data = n_cliente.RN_Buscar_cliente(idprod);
+                data = n_cliente.RN_Buscar_cliente(dni);
                 if (data.Rows.Count > 0)
                 {
                     lbl_Dni.Text = Convert.ToString(data.Rows[0]["DNI"]).Trim();

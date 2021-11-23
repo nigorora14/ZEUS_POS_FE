@@ -14,6 +14,7 @@ using Microsell_Lite.Compras;
 using Microsell_Lite.Caja;
 using Microsell_Lite.Principal;
 using Microsell_Lite.NotaCredito;
+using Microsell_Lite.GuiaRemision;
 
 namespace Microsell_Lite.Principal
 {
@@ -435,6 +436,14 @@ namespace Microsell_Lite.Principal
             MiEmpresa.Frm_EditEmpresa nc = new MiEmpresa.Frm_EditEmpresa();
             nc.MdiParent = this;
             nc.Show();
+            Ocultar();
+        }
+
+        private void enviarGuiaDeRemesionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_GuiaRemision guia = new Frm_GuiaRemision();
+            guia.MdiParent = this;
+            guia.Show();
             Ocultar();
         }
     }

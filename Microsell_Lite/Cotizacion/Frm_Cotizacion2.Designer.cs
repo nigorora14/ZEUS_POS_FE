@@ -30,7 +30,7 @@ namespace Microsell_Lite.Cotizacion
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle2 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle1 = new Klik.Windows.Forms.v1.Common.PaintStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Cotizacion2));
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.label4 = new System.Windows.Forms.Label();
@@ -515,6 +515,7 @@ namespace Microsell_Lite.Cotizacion
             this.label22.Size = new System.Drawing.Size(26, 26);
             this.label22.TabIndex = 532;
             this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label22.Visible = false;
             // 
             // txt_numPedido
             // 
@@ -522,6 +523,7 @@ namespace Microsell_Lite.Cotizacion
             this.txt_numPedido.Name = "txt_numPedido";
             this.txt_numPedido.Size = new System.Drawing.Size(140, 20);
             this.txt_numPedido.TabIndex = 531;
+            this.txt_numPedido.Visible = false;
             // 
             // label12
             // 
@@ -532,6 +534,7 @@ namespace Microsell_Lite.Cotizacion
             this.label12.Size = new System.Drawing.Size(26, 26);
             this.label12.TabIndex = 530;
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label12.Visible = false;
             // 
             // label20
             // 
@@ -654,9 +657,9 @@ namespace Microsell_Lite.Cotizacion
             this.lbl_son.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
             this.lbl_son.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Rectangle;
             this.lbl_son.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
-            paintStyle2.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            paintStyle2.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.lbl_son.FlashStyle = paintStyle2;
+            paintStyle1.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+            paintStyle1.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+            this.lbl_son.FlashStyle = paintStyle1;
             this.lbl_son.Location = new System.Drawing.Point(7, 326);
             this.lbl_son.Name = "lbl_son";
             this.lbl_son.Size = new System.Drawing.Size(771, 30);
@@ -805,6 +808,7 @@ namespace Microsell_Lite.Cotizacion
             this.txt_NroCotizacion.Name = "txt_NroCotizacion";
             this.txt_NroCotizacion.Size = new System.Drawing.Size(140, 20);
             this.txt_NroCotizacion.TabIndex = 516;
+            this.txt_NroCotizacion.Visible = false;
             // 
             // label3
             // 

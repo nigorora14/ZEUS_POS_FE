@@ -54,6 +54,7 @@
     <Compile Include="BD_Cotizacion.cs" />
     <Compile Include="BD_Credito.cs" />
     <Compile Include="BD_Documento.cs" />
+    <Compile Include="BD_GuiaRemision.cs" />
     <Compile Include="BD_IngresoCompra.cs" />
     <Compile Include="BD_Kardex.cs" />
     <Compile Include="BD_MiEmpresa.cs" />

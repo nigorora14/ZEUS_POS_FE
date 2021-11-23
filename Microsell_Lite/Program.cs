@@ -13,6 +13,7 @@ using Microsell_Lite.Ventas;
 using Microsell_Lite.Caja;
 using Microsell_Lite.Principal;
 using Microsell_Lite.Cotizacion;
+using Microsell_Lite.GuiaRemision;
 
 namespace Microsell_Lite
 {
@@ -26,7 +27,7 @@ namespace Microsell_Lite
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_login_2());
+            Application.Run(new Frm_GuiaRemision());
         }
     }
 }

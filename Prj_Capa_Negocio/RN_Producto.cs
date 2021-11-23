@@ -31,6 +31,10 @@ namespace SPV_Capa_Negocio
         {
             return b_prod.BD_Mostrar_UnidMedida();
         }
+        public DataTable RN_Buscar_UniMedia_Todos()
+        {
+            return b_prod.BD_Buscar_UniMedia_Todos();
+        }
         public DataTable RN_Buscar_UniMedia(string Valor)
         {
             return b_prod.BD_Buscar_UniMedia(Valor);
