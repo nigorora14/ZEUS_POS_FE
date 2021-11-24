@@ -1893,30 +1893,7 @@ namespace Microsell_Lite.GuiaRemision
                 Txt_buscarFac.Text = "";
             }*/
         }
-        private void ElRichPanel1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void elRichPanel2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ElDivider4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label29_Click(object sender, EventArgs e)
-        {
-
-        }
+    
 
         private void txt_soloNumero_KeyPress(object sender, KeyPressEventArgs e)
         {
