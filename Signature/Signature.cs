@@ -17,7 +17,8 @@ namespace Signature
         { 
             var response = new FirmadoResponse();
 
-            var certificate = new X509Certificate2();        
+            //var certificate = new X509Certificate2();
+            var certificate = new X509Certificate2();
 
             certificate.Import(request.ruta_Firma, request.contra_Firma, X509KeyStorageFlags.MachineKeySet);
 
