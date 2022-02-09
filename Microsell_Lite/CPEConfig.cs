@@ -35,17 +35,17 @@ namespace Microsell_Lite
             if (CPE.TIPO_PROCESO==3)
             {
                 //SERVIDOR DE PRUEBAS
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-beta.sunat.gob.pe:443/ol-ti-itcpfegem-beta/billService";
             }
             if (CPE.TIPO_PROCESO == 1)
             {
                 //SERVIDOR DE produccion
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-factura.sunat.gob.pe/ol-ti-itcpfegem/billService";
             }
             //el nombre del archivo varia segun la empresa
-            rutaFirma = @"D:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
+            rutaFirma = @"E:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
             //creamos el xml
             if (CPE.COD_TIPO_DOCUMENTO=="01" | CPE.COD_TIPO_DOCUMENTO == "03")
             {
@@ -85,17 +85,17 @@ namespace Microsell_Lite
             if (CPE.TIPO_PROCESO == 3)
             {
                 //SERVIDOR DE PRUEBAS
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-beta.sunat.gob.pe/ol-ti-itcpfegem-beta/billService";
             }
             if (CPE.TIPO_PROCESO == 1)
             {
                 //SERVIDOR DE produccion
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-factura.sunat.gob.pe/ol-ti-itcpfegem/billService";
             }
             //el nombre del archivo varia segun la empresa
-            rutaFirma = @"D:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
+            rutaFirma = @"E:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
             //creamos el xml
             if (CPE.COD_TIPO_DOCUMENTO == "07")
             {
@@ -136,17 +136,17 @@ namespace Microsell_Lite
             if (objResumen.TIPO_PROCESO == 3)
             {
                 //SERVIDOR DE PRUEBAS
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-beta.sunat.gob.pe/ol-ti-itcpfegem-beta/billService";
             }
             if (objResumen.TIPO_PROCESO == 1)
             {
                 //SERVIDOR DE produccion
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-factura.sunat.gob.pe/ol-ti-itcpfegem/billService";
             }
             //el nombre del archivo varia segun la empresa
-            rutaFirma = @"D:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
+            rutaFirma = @"E:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
 
             dictonary = objXml.ResumenBoleta(objResumen,NomArchivo,ruta);
 
@@ -185,13 +185,13 @@ namespace Microsell_Lite
             if (objResumen.TIPO_PROCESO == 3)
             {
                 //SERVIDOR DE PRUEBAS
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-beta.sunat.gob.pe/ol-ti-itcpfegem-beta/billService";
             }
             if (objResumen.TIPO_PROCESO == 1)
             {
                 //SERVIDOR DE produccion
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-factura.sunat.gob.pe/ol-ti-itcpfegem/billService";
             }
             dictonary = objEnv.ConsultaTicket(objResumen.NRO_DOCUMENTO_EMPRESA, objResumen.USUARIO_SOL_EMPRESA, objResumen.PASS_SOL_EMPRESA, NomArchivo, ruta, url, objRespuesta.DigestValue,objResumen.TICKET);
@@ -211,17 +211,17 @@ namespace Microsell_Lite
             if (objBaja.TIPO_PROCESO == 3)
             {
                 //SERVIDOR DE PRUEBAS
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-beta.sunat.gob.pe/ol-ti-itcpfegem-beta/billService";
             }
             if (objBaja.TIPO_PROCESO == 1)
             {
                 //SERVIDOR DE produccion
-                ruta = @"D:\\CPE_2\\BETA\\";
+                ruta = @"E:\\CPE_2\\BETA\\";
                 url = "https://e-factura.sunat.gob.pe/ol-ti-itcpfegem/billService";
             }
             //el nombre del archivo varia segun la empresa
-            rutaFirma = @"D:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
+            rutaFirma = @"E:\\CPE_2\\FIRMABETA\\FIRMABETA.pfx"; //
 
             dictonary = objXml.ResumenBaja(objBaja, NomArchivo, ruta);
 

@@ -1127,7 +1127,7 @@ namespace Microsell_Lite.GuiaRemision
             //}
             //lsv_Det.Items.Clear();
         }
-        string rutaPDF_Export_Ventas = "D:\\CPE_2\\BETA\\";
+        string rutaPDF_Export_Ventas = "E:\\CPE_2\\BETA\\";
         #region kardex copia
         //void RegistrarMovimientoKardex(string idprod, double cant, double xprecioCompra)
         //{
@@ -1217,7 +1217,7 @@ namespace Microsell_Lite.GuiaRemision
 
             //string tipoCompronte = "";
 
-            //string RutaQr = "D:\\CPE_2\\QR_TEMP\\" + Lbl_NroNotaCredito.Text + ".BMP";
+            //string RutaQr = "E:\\CPE_2\\QR_TEMP\\" + Lbl_NroNotaCredito.Text + ".BMP";
             //GenerarQR("Nota Credito", Lbl_Total_ACobrar.Text, txt_ClienteNom.Text, Lbl_NroNotaCredito.Text, RutaQr);
 
             //pic_qr.Load(RutaQr);

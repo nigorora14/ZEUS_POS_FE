@@ -392,7 +392,7 @@ namespace Microsell_Lite.Cotizacion
                 }
             }
         }
-        string rutaPDF_Export_Ventas = "D:\\CPE_2\\BETA\\";
+        string rutaPDF_Export_Ventas = "E:\\CPE_2\\BETA\\";
         private void btn_procesar_Click(object sender, EventArgs e)
         {
             if (lsv_Det.Items.Count==0)

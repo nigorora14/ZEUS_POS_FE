@@ -906,6 +906,7 @@ namespace Microsell_Lite.Ventas
                             {
                                 if (formato.rbt_for_ticket.Checked)
                                 {
+                                    fil.Show();
                                     cpb_ticket.lbl_nroDoc.Text = cbb_tipoDocumento.Text + " - " + txt_NroDocumento.Text;
                                     cpb_ticket.Tag = txt_NroDocumento.Text;
                                     cpb_ticket.RutaPPF = rutaPDF_Export_Ventas + v_rucEmisor.Trim() + "-" + tipoDocumentoSunat.Trim() + "-" + txt_NroDocumento.Text.Trim() + ".pdf";
@@ -923,6 +924,7 @@ namespace Microsell_Lite.Ventas
                                 }
                                 else if (formato.rbt_for_A5.Checked)
                                 {
+                                    fil.Show();
                                     cpb_A5.lbl_nroDoc.Text = cbb_tipoDocumento.Text + " - " + txt_NroDocumento.Text;
                                     cpb_A5.Tag = txt_NroDocumento.Text;
                                     cpb_A5.RutaPPF = rutaPDF_Export_Ventas + v_rucEmisor.Trim() + "-" + tipoDocumentoSunat.Trim() + "-" + txt_NroDocumento.Text.Trim() + ".pdf";
@@ -939,6 +941,7 @@ namespace Microsell_Lite.Ventas
                                 }
                                 else if (formato.rbt_for_A4.Checked)
                                 {
+                                    fil.Show();
                                     cpb_A4.lbl_nroDoc.Text = cbb_tipoDocumento.Text + " - " + txt_NroDocumento.Text;
                                     cpb_A4.Tag = txt_NroDocumento.Text;
                                     cpb_A4.RutaPPF = rutaPDF_Export_Ventas + v_rucEmisor.Trim() + "-" + tipoDocumentoSunat.Trim() + "-" + txt_NroDocumento.Text.Trim() + ".pdf";
@@ -1711,7 +1714,7 @@ namespace Microsell_Lite.Ventas
         {
             Guardar_Cotizacion();
         }
-        string rutaPDF_Export_Ventas = "D:\\CPE_2\\BETA\\";
+        string rutaPDF_Export_Ventas = "E:\\CPE_2\\BETA\\";
         void RegistrarArchivosTemporales(string formatoimp)
         {
             RN_Temporal n_tem = new RN_Temporal();
@@ -1722,7 +1725,7 @@ namespace Microsell_Lite.Ventas
             string mes = dtp_FechaEmi.Value.Month.ToString();
             string año = dtp_FechaEmi.Value.Year.ToString();
 
-            string rutaQR = "D:\\CPE\\QR_TEMP\\" + txt_NroDocumento.Text + ".BMP";
+            string rutaQR = "E:\\CPE\\QR_TEMP\\" + txt_NroDocumento.Text + ".BMP";
             GenerarCodigoQR(cbb_tipoDocumento.Text, lbl_TotalPagar.Text, txt_cliente.Text, txt_NroDocumento.Text, rutaQR);
 
             objCPE.FECHA_VEC_CREDITO = dtp_VenciCredito.Value.ToString("yyyy-MM-dd");

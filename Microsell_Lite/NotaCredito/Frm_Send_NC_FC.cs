@@ -622,7 +622,7 @@ namespace Microsell_Lite.NotaCredito
 
             string tipoCompronte = "";
 
-            string RutaQr = "D:\\CPE_2\\QR_TEMP\\" + Lbl_NroNotaCredito.Text + ".BMP";
+            string RutaQr = "E:\\CPE_2\\QR_TEMP\\" + Lbl_NroNotaCredito.Text + ".BMP";
             GenerarQR("Nota Credito", Lbl_Total_ACobrar.Text, txt_ClienteNom.Text, Lbl_NroNotaCredito.Text, RutaQr);
 
             //pic_qr.Load(RutaQr);
