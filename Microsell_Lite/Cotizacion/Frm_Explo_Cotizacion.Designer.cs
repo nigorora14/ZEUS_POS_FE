@@ -379,9 +379,9 @@
             this.pnl_msn.Controls.Add(this.label16);
             this.pnl_msn.Controls.Add(this.pictureBox1);
             this.pnl_msn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.pnl_msn.Location = new System.Drawing.Point(0, 170);
+            this.pnl_msn.Location = new System.Drawing.Point(0, 94);
             this.pnl_msn.Name = "pnl_msn";
-            this.pnl_msn.Size = new System.Drawing.Size(1156, 431);
+            this.pnl_msn.Size = new System.Drawing.Size(1156, 507);
             this.pnl_msn.TabIndex = 16;
             this.pnl_msn.Visible = false;
             // 
