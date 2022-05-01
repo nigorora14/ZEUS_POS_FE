@@ -129,7 +129,7 @@ Public Class CrearXML
 			</cac:PartyLegalEntity>
 		</cac:Party>
 	</cac:AccountingCustomerParty>"
-            If (comprobante.FORMA_PAGO = "Contado") Then 'NUEVO 15/11/2021
+            If (comprobante.FORMA_PAGO = "Contado") Then 'NUEVO 15/11/2021 | 1/05/2022 se cambio de '"" & comprobante.FORMA_PAGO & "' a " & comprobante.FORMA_PAGO & "
                 xml = xml & "<cac:PaymentTerms>
                                 <cbc:ID>FormaPago</cbc:ID>
                                 <cbc:PaymentMeansID>" & comprobante.FORMA_PAGO & "</cbc:PaymentMeansID>
