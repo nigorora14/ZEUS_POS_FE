@@ -872,7 +872,7 @@ namespace Microsell_Lite.Ventas
 
                         //registrar movimiento de kardex
                         RegistrarMovimientoKardex();
-                        Frm_Filtro fil = new Frm_Filtro();
+                        //Frm_Filtro fil = new Frm_Filtro();
                         if (tipoServidor == "2")
                         {
                             if (formato.rbt_for_A4.Checked)

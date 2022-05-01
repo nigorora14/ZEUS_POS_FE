@@ -309,3 +309,16 @@ D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\Crear
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.dll
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.xml
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.pdb
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\bin\Debug\CrearXML.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\bin\Debug\CrearXML.pdb
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\bin\Debug\CrearXML.xml
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\bin\Debug\businessEntities.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\bin\Debug\businessEntities.pdb
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.Resources.resources
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.xml
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\CrearXML\obj\Debug\CrearXML.pdb

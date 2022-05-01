@@ -951,3 +951,5 @@ E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug
 E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csproj.CopyComplete
 E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
 E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.csprojAssemblyReference.cache
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrearXML.xml

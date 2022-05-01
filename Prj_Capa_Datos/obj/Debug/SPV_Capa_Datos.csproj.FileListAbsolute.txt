@@ -63,3 +63,14 @@ D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Net.Http.dll
 D:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\es\System.Net.Http.resources.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Net.Http.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\es\System.Net.Http.resources.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\SPV_Capa_Datos.csprojAssemblyReference.cache
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\SPV_Capa_Datos.csproj.CoreCompileInputs.cache
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\SPV_Capa_Datos.csproj.CopyComplete
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+E:\09042020FE\Proyecto SPV con FE\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb

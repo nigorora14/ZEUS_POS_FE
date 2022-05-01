@@ -154,7 +154,8 @@ namespace Microsell_Lite.Utilitarios
 
                 correo.From = new MailAddress(emisor);
                 envio.Credentials = new NetworkCredential(emisor, clave);
-               //aqui encontraras el host de Gmail---------------https://www.hostinger.es/tutoriales/como-usar-el-servidor-smtp-gmail-gratuito/
+                //aqui encontraras el host de Gmail---------------https://www.hostinger.es/tutoriales/como-usar-el-servidor-smtp-gmail-gratuito/
+                //recordar que se tiene que permitir el "Acceso de aplicaciones menos seguras" de Gmail.
                 envio.Host = "smtp.gmail.com"; //smtp.live.com || outlook  -------------> smtp.gmail.com || Gmail
                 envio.Port = 587; //mismo puerto
                 envio.EnableSsl = true;
@@ -199,6 +200,7 @@ namespace Microsell_Lite.Utilitarios
                 envio.Credentials = new NetworkCredential(emisor, clave);
 
                 //aqui encontraras el host de Gmail---------------https://www.hostinger.es/tutoriales/como-usar-el-servidor-smtp-gmail-gratuito/
+                //recordar que se tiene que permitir el "Acceso de aplicaciones menos seguras" de Gmail.
                 envio.Host = "smtp.gmail.com"; //smtp.live.com || outlook  -------------> smtp.gmail.com || Gmail
                 envio.Port = 587;//587
                 envio.EnableSsl = true;

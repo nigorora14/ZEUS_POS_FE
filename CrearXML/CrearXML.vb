@@ -132,7 +132,7 @@ Public Class CrearXML
             If (comprobante.FORMA_PAGO = "Contado") Then 'NUEVO 15/11/2021
                 xml = xml & "<cac:PaymentTerms>
                                 <cbc:ID>FormaPago</cbc:ID>
-                                <cbc:PaymentMeansID>'" & comprobante.FORMA_PAGO & "'</cbc:PaymentMeansID>
+                                <cbc:PaymentMeansID>" & comprobante.FORMA_PAGO & "</cbc:PaymentMeansID>
                              </cac:PaymentTerms>"
             ElseIf (comprobante.FORMA_PAGO = "Credito") Then 'NUEVO 15/11/2021
                 xml = xml & "<cac:PaymentTerms>
